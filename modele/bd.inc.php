@@ -1,9 +1,9 @@
 <?php
 
 function connexionPDO() {
-    $login = "UserProjet";
-    $mdp = "Projet123";
-    $bd = "capliez_bd1";
+    $login = "userrestofr";
+    $mdp = "m0n_suPR_mdp_CQriZe";
+    $bd = "restofr";
     $serveur = "localhost";
 
     try {
